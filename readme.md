@@ -2,7 +2,7 @@
 
 多种风格可选的萌萌计数器, vercel 部署版本
 
-![Moe-Counter](https://count.naihee.cn/@moe-counter-vercel-github?theme=rule34)
+![Moe-Counter](https://count.naihee.cn/moe-counter-vercel-github?theme=rule34)
 
 <details>
 <summary>More theme</summary>
