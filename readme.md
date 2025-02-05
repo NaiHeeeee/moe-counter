@@ -2,26 +2,26 @@
 
 多种风格可选的萌萌计数器, vercel 部署版本
 
-![Moe-Counter](https://counter.imalun.com/moe-counter-vercel-github)
+![Moe-Counter](https://count.naihee.cn/moe-counter-vercel-github)
 
 <details>
 <summary>More theme</summary>
 
 ##### asoul
 
-![asoul](https://counter.imalun.com/demo?theme=asoul)
+![asoul](https://count.naihee.cn/demo?theme=asoul)
 
 ##### moebooru
 
-![moebooru](https://counter.imalun.com/demo?theme=moebooru)
+![moebooru](https://count.naihee.cn/demo?theme=moebooru)
 
 ##### rule34
 
-![Rule34](https://counter.imalun.com/demo?theme=rule34)
+![Rule34](https://count.naihee.cn/demo?theme=rule34)
 
 ##### gelbooru
 
-![Gelbooru](https://counter.imalun.com/demo?theme=gelbooru)
+![Gelbooru](https://count.naihee.cn/demo?theme=gelbooru)
 
 </details>
 
@@ -38,7 +38,7 @@
 6. 申请 [Vercel](https://vercel.com/signup) 账号
 7. 点击以下按钮将 Moe-Counter-Vercel 一键部署到 Vercel<br>
 
-[![Deploy](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/MaLuns/moe-counter-vercel)
+[![Deploy](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/NaiHeeeee/moe-counter)
 
 8. 进入 Settings - Environment Variables，添加环境变量 `MONGODB_PATH`，值为前面记录的数据库连接字符串
 
